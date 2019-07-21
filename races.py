@@ -6,7 +6,7 @@
 """
 
 __author__ = "Sven Eggert"
-__copyright__ = "Copyright 2017, Egertiko Designs"
+__copyright__ = "Copyright 2017"
 __credits__ = []
 __license__ = "GPL"
 __version__ = "0.0.9"
