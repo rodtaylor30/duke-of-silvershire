@@ -13,7 +13,7 @@ from person import Person
 from races import Race
 
 __author__ = "Sven Eggert"
-__copyright__ = "Copyright 2017, Egertiko Designs"
+__copyright__ = "Copyright 2017"
 __credits__ = []
 
 __license__ = "GPL"
